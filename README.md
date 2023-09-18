@@ -45,7 +45,7 @@ Eu Tive algumas dificuldades para utilizar os estados com a API, mas aos poucos 
 ## Como rodar o código no seu computador 💻
 
 - Em uma pasta da sua escolha abra o terminal e digite
-> git clone https://github.com/
+> git clone https://github.com/Guilherme-DAngelo/pokedex-api-com-react.git
 - para instalar todos arquivos necessários digite
 >npm install
 - depois para visualizar o projeto digite
