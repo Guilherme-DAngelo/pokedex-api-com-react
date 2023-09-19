@@ -10,6 +10,15 @@ Neste projeto, foi usado uma API chamada PokéAPI em conjunto com o React.js, qu
 
 ![](public/project-images/project.gif)
 
+[Clique aqui para acessar a página da aplicação](https://pokedex-api-com-react-6cutj5uet-guilherme-dangelo.vercel.app)
+
+### Design Responsivo
+
+A aplicação também foi feita para ser funcionar e ser responsiva em diversas resoluções, a aplicação também funciona para celulares
+
+![](public/project-images/mobile.gif)
+
+[Clique aqui para acessar a página da aplicação](https://pokedex-api-com-react-6cutj5uet-guilherme-dangelo.vercel.app)
 
 ## Meu processo
 
@@ -24,7 +33,7 @@ Neste projeto, foi usado uma API chamada PokéAPI em conjunto com o React.js, qu
 - HTML Semântico
 
 
-## 🚀 Funcionalidades do Projeto
+## Funcionalidades do Projeto
 
 * <b>Pesquisa de Pokémons</b>: Busque facilmente Pokémons digitando o nome ou ID na caixa de pesquisa.
 
@@ -42,7 +51,7 @@ Eu Tive algumas dificuldades para utilizar os estados com a API, mas aos poucos 
 
 
 
-## Como rodar o código no seu computador 💻
+## Como rodar a aplicação em seu computador 💻
 
 - Em uma pasta da sua escolha abra o terminal e digite
 > git clone https://github.com/Guilherme-DAngelo/pokedex-api-com-react.git
